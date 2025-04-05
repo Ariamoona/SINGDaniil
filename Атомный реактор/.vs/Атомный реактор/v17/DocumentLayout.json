@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\resourcebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\resourcedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\resourcedataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcedataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\resourceuidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourceuidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\resourceuidataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourceuidataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|c:\\users\\arina\\\u0430\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\assets\\scripts\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A977BD-4CEE-8F0B-0784-40F72AB39510}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIService.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\UIService.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UIService.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\UIService.cs",
+              "RelativeToolTip": "Assets\\scripts\\UIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:20.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceUIDataSO.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceUIDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourceUIDataSO.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceUIDataSO.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourceUIDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:19.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResourceUIData.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceUIData.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourceUIData.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceUIData.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourceUIData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:18.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResourceType.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceType.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourceType.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceType.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:17.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResourceService.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceService.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourceService.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceService.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:17.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourceDataSO.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourceDataSO.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceDataSO.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourceDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceData.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceData.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourceData.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceData.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:15.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourceButton.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceButton.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourceButton.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\ResourceButton.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourceButton.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:13.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\GameOverPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameOverPanel.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\GameOverPanel.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameOverPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:12.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\Game.cs",
+              "RelativeToolTip": "Assets\\scripts\\Game.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:11.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Bootstrapper.cs",
+              "ToolTip": "C:\\Users\\Arina\\\u0410\u0442\u043E\u043C\u043D\u044B\u0439 \u0440\u0435\u0430\u043A\u0442\u043E\u0440\\Assets\\scripts\\Bootstrapper.cs",
+              "RelativeToolTip": "Assets\\scripts\\Bootstrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:03.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
